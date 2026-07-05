@@ -114,9 +114,9 @@ python EV_ADAS.py
 
 ### Blind Spot Detection
 
-![BSD Left](Images/EV_BSD%20L.png)
+![BSD Left](Images/EV_BSD_L.png)
 
-![BSD Right](Images/EV_BSD%20R.png)
+![BSD Right](Images/EV_BSD_R.png)
 
 ### Critical Warning
 
@@ -128,7 +128,7 @@ python EV_ADAS.py
 
 ### Fault Detection
 
-![Fault](Images/Fault%2004.png)
+![Fault](Images/Fault_04.png)
 
 ---
 
