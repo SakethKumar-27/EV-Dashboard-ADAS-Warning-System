@@ -137,9 +137,9 @@ python EV_ADAS.py
 
 ### Fault Detection
 
+![Fault](Images/Fault_04.png)
 ![Fault](Images/Fault_00.png)
 ![Fault](Images/Fault_01.png)
-![Fault](Images/Fault_04.png)
 ![Fault](Images/Fault_MTEMP.png)
 
 ---
