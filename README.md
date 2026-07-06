@@ -108,6 +108,15 @@ python EV_ADAS.py
 
 ##  Project Screenshots
 
+## Bluepill board
+![Bluepill board](Images/Bluepill_board.png)
+
+## Spareparts
+![Spareparts](Images/Spareparts.png)
+
+## Virtualterminal
+![Virtualterminal](Images/Virtual_terminal.png)
+
 ### Dashboard
 
 ![Dashboard](Images/ev_dashboard.png)
@@ -128,7 +137,10 @@ python EV_ADAS.py
 
 ### Fault Detection
 
+![Fault](Images/Fault_00.png)
+![Fault](Images/Fault_00(2).png)
 ![Fault](Images/Fault_04.png)
+![Fault](Images/Fault_M_TEMP.png)
 
 ---
 
